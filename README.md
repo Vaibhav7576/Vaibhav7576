@@ -2,7 +2,8 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=220&section=header&text=Vaibhav%20Singh&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CSE%20Student%20%7C%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=58&descSize=16" width="100%" />
+<!-- HEADER: Only this banner uses the new blue gradient -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1D4ED8,100:06B6D4&height=220&section=header&text=Vaibhav%20Singh&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CSE%20Student%20%7C%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=58&descSize=16" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5D4&center=true&vCenter=true&width=650&lines=First+Year+CSE+Student;Learning+by+Building;Exploring+Open+Source;C%2B%2B+%7C+JavaScript+%7C+TypeScript;Turning+Ideas+Into+Projects" alt="Typing SVG" />
 
@@ -25,77 +26,4 @@ I'm passionate about technology, programming, and building things that solve rea
 
 ---
 
-## 🔗 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/Vaibhav7576">
-<img src="https://img.shields.io/badge/GitHub-302B63?style=for-the-badge&logo=github&logoColor=00F5D4" alt="GitHub" />
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-302B63?style=for-the-badge&logo=linkedin&logoColor=00F5D4" alt="LinkedIn" />
-</a>
-
-</div>
-
----
-
-## 🛠️ Tech Stack
-
-**Languages & Programming**
-
-<p>
-<img src="https://img.shields.io/badge/C++-302B63?style=for-the-badge&logo=cplusplus&logoColor=00F5D4" alt="C++" />
-<img src="https://img.shields.io/badge/HTML5-302B63?style=for-the-badge&logo=html5&logoColor=00F5D4" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-302B63?style=for-the-badge&logo=css3&logoColor=00F5D4" alt="CSS3" />
-<img src="https://img.shields.io/badge/JavaScript-302B63?style=for-the-badge&logo=javascript&logoColor=00F5D4" alt="JavaScript" />
-<img src="https://img.shields.io/badge/TypeScript-302B63?style=for-the-badge&logo=typescript&logoColor=00F5D4" alt="TypeScript" />
-</p>
-
-**Tools & Technologies**
-
-<p>
-<img src="https://img.shields.io/badge/Git-302B63?style=for-the-badge&logo=git&logoColor=00F5D4" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-302B63?style=for-the-badge&logo=github&logoColor=00F5D4" alt="GitHub" />
-<img src="https://img.shields.io/badge/VS_Code-302B63?style=for-the-badge&logo=visualstudiocode&logoColor=00F5D4" alt="VS Code" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vaibhav7576&theme=github_dark" height="165" alt="GitHub Stats" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vaibhav7576&theme=github_dark" height="165" alt="Most Used Languages" />
-
-<img src="https://streak-stats.demolab.com?user=Vaibhav7576&theme=tokyonight&hide_border=true&ring=00F5D4&fire=00F5D4&currStreakLabel=00F5D4" height="165" alt="GitHub Streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaibhav7576&bg_color=0F0C29&color=00F5D4&line=7B61FF&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Contribution Graph" />
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/Vaibhav7576?tab=repositories">
-<img src="https://img.shields.io/badge/Explore%20My%20Repositories-302B63?style=for-the-badge&logo=github&logoColor=00F5D4" alt="Explore Repositories" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### ✨ Learn • Build • Experiment • Repeat 🚀
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=100&section=footer" width="100%" />
-
-</div>
-
+## 🔗 Connect With
